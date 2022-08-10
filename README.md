@@ -10,7 +10,7 @@ The curated list of deep learning resources
   * [Tutorial](#tutorial-1)
   * [Code template & example](https://github.com/SueGK/Deep-Learning-Journey/edit/main/README.md#code-template--example-1)
 - [Paper](#paper)
-- [Computer Vision](# Computer Vision)
+- [Computer Vision](https://github.com/SueGK/Deep-Learning-Journey/edit/main/README.md#computer-vision)
 
 
 
