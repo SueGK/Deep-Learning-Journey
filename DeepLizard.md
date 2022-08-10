@@ -146,13 +146,13 @@ torch.dtype ▶ torch.float32
 
 **Tensors contain uniform (of the same type) numerical data with one of these types:**  
 
-<img src="https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FFemFarm%2FK2olaDZo1C.png?alt=media&token=844499cd-a950-49bd-a3dd-2970ecb9abe8)  
+<img src="https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FFemFarm%2FK2olaDZo1C.png?alt=media&token=844499cd-a950-49bd-a3dd-2970ecb9abe8" width="400">
 
 torch.device ▶ CPU  
 
 torch.layout ▶ torch.strided  
 
-The layout, strided in our case, specifies how the tensor is stored in memory. To learn more about stride check [here](https://en.wikipedia.org/wiki/Stride_of_an_array" width="400">.  
+The layout, strided in our case, specifies how the tensor is stored in memory. To learn more about stride check [here](https://en.wikipedia.org/wiki/Stride_of_an_array).  
 
 ### Creating Tensors Using Data  
 
