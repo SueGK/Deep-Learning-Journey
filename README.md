@@ -2,7 +2,7 @@
 The curated list of deep learning resources
 
 # TOC
-- [Visualization](#visualization)
+- [Deep Learning Visualization](#visualization)
 - [Pytorch](#pytorch)
   * [Tutorial](#tutorial)
   * [Code template & example](https://github.com/SueGK/Deep-Learning-Journey/edit/main/README.md#code-template--example)
@@ -11,7 +11,11 @@ The curated list of deep learning resources
   * [Code template & example](https://github.com/SueGK/Deep-Learning-Journey/edit/main/README.md#code-template--example-1)
 - [Paper](#paper)
 - [Computer Vision](https://github.com/SueGK/Deep-Learning-Journey/edit/main/README.md#computer-vision)
-
+- [Tool](#tool)
+  * [Library](#library)
+  * [Cheetsheet](#cheetsheet)
+- [MLOps](#mlops)
+  * [Docker](#docker)
 
 
 
@@ -73,15 +77,32 @@ The curated list of deep learning resources
 * [Browse the State-of-the-Art in Machine Learning | Papers With Code](https://paperswithcode.com/sota)
 * [The latest in Machine Learning | Papers With Code](https://paperswithcode.com/)
 * [Stateoftheart AI](https://www.stateoftheart.ai/): An open-data and free platform built by the research community to facilitate the collaborative development of AI
+* [labmlai/annotated_deep_learning_paper_implementations: 🧑‍🏫 59 Implementations/tutorials of deep learning papers with side-by-side notes 📝](https://github.com/labmlai/annotated_deep_learning_paper_implementations)
 
 # Computer Vision
 * [dmlc/gluon-cv: Gluon CV Toolkit](https://github.com/dmlc/gluon-cv): 
   * GluonCV provides implementations of the state-of-the-art (SOTA) deep learning models in computer vision.
   * ![short_demo](https://user-images.githubusercontent.com/71711489/183931315-ceb4c332-3a47-471b-8c5b-da64b18c2f7d.gif)
 
+# Tool
 
+## Library
 
+[ml-tooling/best-of-ml-python: 🏆 A ranked list of awesome machine learning Python libraries. Updated weekly.](https://github.com/ml-tooling/best-of-ml-python)
 
+## Cheetsheet
+
+* [wzchen/probability_cheatsheet: A comprehensive 10-page probability cheatsheet that covers a semester's worth of introduction to probability.](https://github.com/wzchen/probability_cheatsheet)
+
+* [The Ultimate Docker Cheat Sheet | dockerlabs](https://dockerlabs.collabnix.com/docker/cheatsheet/)
+
+# MLOps
+
+## Docker
+
+* [collabnix/dockerlabs: Docker - Beginners | Intermediate | Advanced](https://github.com/collabnix/dockerlabs)
+
+* [docker/awesome-compose: Awesome Docker Compose samples](https://github.com/docker/awesome-compose)
 
 
 
