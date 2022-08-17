@@ -1,7 +1,9 @@
-# Pytorch-Learning-Journey
+# Deep-Learning-Journey
 The curated list of deep learning resources
 
 # TOC
+
+- [Deep Learning foundation](https://github.com/SueGK/Deep-Learning-Journey/edit/main/README.md#deep-learning-foundation)
 - [Deep Learning Visualization](#visualization)
 - [Pytorch](#pytorch)
   * [Tutorial](#tutorial)
@@ -18,6 +20,15 @@ The curated list of deep learning resources
   * [Docker](#docker)
 
 
+# Deep Learning foundation
+
+* [The spelled-out intro to neural networks and backpropagation: building micrograd - YouTube](https://www.youtube.com/watch?v=VMj-3S1tku0)
+  * This is the most step-by-step spelled-out explanation of backpropagation and training of neural networks. It only assumes basic knowledge of Python and a vague recollection of calculus from high school.
+  * Links:
+     - micrograd on github: https://github.com/karpathy/micrograd
+     - jupyter notebooks I built in this video: [randomfun/lectures/micrograd at master · karpathy/randomfun](https://github.com/karpathy/randomfun/tree/master/lectures/micrograd)
+     - my website: https://karpathy.ai
+     - my twitter: https://twitter.com/karpathy
 
 # Visualization
 
