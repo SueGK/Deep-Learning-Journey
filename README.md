@@ -109,6 +109,9 @@ The curated list of deep learning resources
 
 # MLOps
 
+## MLOps Course
+* [DataTalksClub/mlops-zoomcamp: Free MLOps course from DataTalks.Club](https://github.com/DataTalksClub/mlops-zoomcamp)
+
 ## Docker
 
 * [collabnix/dockerlabs: Docker - Beginners | Intermediate | Advanced](https://github.com/collabnix/dockerlabs)
