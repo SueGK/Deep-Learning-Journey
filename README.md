@@ -29,6 +29,8 @@ The curated list of deep learning resources
      - jupyter notebooks I built in this video: [randomfun/lectures/micrograd at master · karpathy/randomfun](https://github.com/karpathy/randomfun/tree/master/lectures/micrograd)
      - my website: https://karpathy.ai
      - my twitter: https://twitter.com/karpathy
+* [Deep Learning Specialization-Andrew NG](https://www.coursera.org/specializations/deep-learning)
+  * [ashishpatel26/Andrew-NG-Notes: This is Andrew NG Coursera Handwritten Notes.](https://github.com/ashishpatel26/Andrew-NG-Notes) 
 
 # Visualization
 
