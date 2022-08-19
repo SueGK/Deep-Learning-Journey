@@ -111,6 +111,7 @@ The curated list of deep learning resources
 
 ## MLOps Course
 * [DataTalksClub/mlops-zoomcamp: Free MLOps course from DataTalks.Club](https://github.com/DataTalksClub/mlops-zoomcamp)
+* [Course 2022 - Full Stack Deep Learning](https://fullstackdeeplearning.com/course/2022/)
 
 ## Docker
 
