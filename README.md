@@ -91,12 +91,13 @@ The curated list of deep learning resources
 * [The latest in Machine Learning | Papers With Code](https://paperswithcode.com/)
 * [Stateoftheart AI](https://www.stateoftheart.ai/): An open-data and free platform built by the research community to facilitate the collaborative development of AI
 * [labmlai/annotated_deep_learning_paper_implementations: 🧑‍🏫 59 Implementations/tutorials of deep learning papers with side-by-side notes 📝](https://github.com/labmlai/annotated_deep_learning_paper_implementations)
+* [DengBoCong/nlp-paper: 自然语言处理领域下的相关论文（附阅读笔记），复现模型以及数据处理等（代码含TensorFlow和PyTorch两版本）](https://github.com/DengBoCong/nlp-paper)
 
 # Computer Vision
 * [dmlc/gluon-cv: Gluon CV Toolkit](https://github.com/dmlc/gluon-cv): 
   * GluonCV provides implementations of the state-of-the-art (SOTA) deep learning models in computer vision.
   * ![short_demo](https://user-images.githubusercontent.com/71711489/183931315-ceb4c332-3a47-471b-8c5b-da64b18c2f7d.gif)
-
+  
 # Tool
 
 ## Library
